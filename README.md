@@ -1,4 +1,4 @@
-# Hypothesis testing using precious metals mining versus bullion Exchange-Traded Funds (ETFs) 
+# Hypothesis testing using precious metals Exchange-Traded Funds (ETFs) 
 
 
 #### -- Project Status: Active
