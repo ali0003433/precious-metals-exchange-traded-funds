@@ -37,7 +37,7 @@ Test three hypotheses about precious metal ETFs to guide investment decisions fo
     [hypothesis tests](https://github.com/ali0003433/precious-metals-mining-vs-bullion/blob/master/hypothesis_tests.py)
 
 ## Featured Deliverables
-* [Hypothesis Testing with Gold and Silver Exchange-Traded Funds](https://docs.google.com/presentation/d/1bvhdiyQzB6g3ht1ZsVV0I_YWuXt2cdiKQdgsHO2QVos/edit?ts=5d9d3cdb#slide=id.g621d2c2579_0_2)
+* [Hypothesis Testing with Gold and Silver Exchange-Traded Funds](https://github.com/ali0003433/precious-metals-mining-vs-bullion/blob/master/Hypothesis-testing-with-precious-metals-funds.pdf)
 
 ## Collaborators
 * Anastasia Kharina
